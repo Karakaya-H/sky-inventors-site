@@ -1,1 +1,3 @@
-console.log("Welcome to Sky Inventors!");
+document.addEventListener('DOMContentLoaded', () => {
+  console.log("SkyInventors web sitesi hazır!");
+});
